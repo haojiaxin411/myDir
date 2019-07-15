@@ -1,7 +1,7 @@
 package com.offcn.pojo;
 
 import java.io.Serializable;
-
+//*************************************
 public class TbBrand implements Serializable{
     /**
 	 * 
